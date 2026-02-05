@@ -1,6 +1,6 @@
 # Microprocessor Laboratory (ICE3029, 2024 Fall)
 
-Embedded system implementation assignments and term projects for Microprocessor Laboratory, using a RA6M3 board.
+Embedded system implementations and term projects for Microprocessor Laboratory, using a RA6M3 board.
 
 ## A3 — GPIO & FND (Register-based)
 Implemented a 7-segment(FND) display controller using direct register access.
